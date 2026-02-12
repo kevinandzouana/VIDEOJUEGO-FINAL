@@ -5,12 +5,15 @@ public class GameManager : MonoBehaviour
 {
     public Transform player;
     public float deathOffset = 6f;
+    private bool isGameOver = false;
 
     void Update()
     {
-        if (player.position.y < Camera.main.transform.position.y - deathOffset)
+        if (!isGameOver &&
+            player.position.y < Camera.main.transform.position.y - deathOffset)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            isGameOver = true;
+            SceneManager.LoadScene("GameOver");
         }
     }
 }

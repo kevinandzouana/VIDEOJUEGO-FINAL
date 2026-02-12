@@ -40,6 +40,8 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -54,6 +56,8 @@
           {
             "name": "AudioListener",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -97,6 +101,8 @@
           {
             "name": "Camera",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -116,7 +122,10 @@
           },
           {
             "name": "Cubemap",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -135,6 +144,8 @@
           {
             "name": "EditorExtension",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 1,
@@ -149,6 +160,8 @@
           {
             "name": "GameObject",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -181,6 +194,8 @@
           {
             "name": "LevelGameManager",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 1,
@@ -213,6 +228,8 @@
           {
             "name": "LightmapSettings",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -227,6 +244,8 @@
           {
             "name": "Material",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -253,6 +272,8 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -267,6 +288,8 @@
           {
             "name": "MonoScript",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 1,
@@ -275,6 +298,8 @@
           {
             "name": "NamedObject",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 1,
@@ -313,6 +338,8 @@
           {
             "name": "RectTransform",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -327,6 +354,8 @@
           {
             "name": "RenderSettings",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -361,6 +390,8 @@
           {
             "name": "Shader",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -387,6 +418,8 @@
           {
             "name": "Sprite",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -420,18 +453,14 @@
           },
           {
             "name": "Texture",
-            "scenes": [
-              "Assets/Scenes/SampleScene.unity"
-            ],
-            "dependencyType": 0,
+            "scenes": [],
+            "dependencyType": 1,
             "icon": null
           },
           {
             "name": "Texture2D",
-            "scenes": [
-              "Assets/Scenes/SampleScene.unity"
-            ],
-            "dependencyType": 0,
+            "scenes": [],
+            "dependencyType": 1,
             "icon": null
           },
           {
@@ -911,7 +940,7 @@
           {
             "name": "Collider",
             "scenes": [],
-            "dependencyType": 0,
+            "dependencyType": 1,
             "icon": null
           },
           {
@@ -1374,6 +1403,8 @@
           {
             "name": "Font",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -1440,6 +1471,8 @@
           {
             "name": "Canvas",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
@@ -1454,6 +1487,8 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
+              "Assets/Scenes/GameOver.unity",
+              "Assets/Scenes/Menu.unity",
               "Assets/Scenes/SampleScene.unity"
             ],
             "dependencyType": 0,
