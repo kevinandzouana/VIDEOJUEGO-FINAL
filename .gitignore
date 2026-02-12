@@ -1,0 +1,55 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+MemoryCaptures/
+UserSettings/
+Logs/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.apk
+*.aab
+*.exe
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcuserdatad
+*.apk
+*.aab
+
+# Gradle / Android
+.gradle/
+*.gradle
+*.keystore
+*.jks
+
+# Crashlytics / Fabric
+crashlytics-build.properties
+
+# Other files to ignore
+*.log
+*.pdb
+*.mdb
+*.opendb
